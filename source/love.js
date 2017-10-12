@@ -1,5 +1,5 @@
 ﻿(function(window){
-    //构建123
+    //构建4561
     function random(min, max) {
         return min + Math.floor(Math.random() * (max - min + 1));
     }
