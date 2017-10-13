@@ -1,5 +1,5 @@
 ﻿(function(window){
-    //构建123 dev
+    //构建123 dev dev2
     function random(min, max) {
         return min + Math.floor(Math.random() * (max - min + 1));
     }
